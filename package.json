@@ -1,5 +1,6 @@
 {
-  "name": "interquesty-tags",
+  "name": "@interquesty-app/interquesty-tags",
+  "repository": "https://github.com/interquesty-app/interquesty-tags",
   "version": "1.0.0",
   "description": "Interquesty tags",
   "main": "index.ts",
@@ -11,8 +12,5 @@
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.2.2"
-  },
-  "publishConfig": {
-    "interquesty-app:registry": "https://npm.pkg.github.com"
   }
 }
